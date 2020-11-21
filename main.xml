@@ -1,3 +1,4 @@
+<!-- idk what any of this is doing and idk if it even works -->
 <Ui xmlns="http://www.blizzard.com/wow/ui/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.blizzard.com/wow/ui/">
 	<Script file="./main.lua" />
 	<Frame name="MyAddon_Frame">
